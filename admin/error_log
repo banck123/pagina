@@ -1,0 +1,960 @@
+[24-Nov-2021 15:12:16 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[24-Nov-2021 15:12:16 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[24-Nov-2021 15:12:16 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[24-Nov-2021 15:12:16 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/goldbwdo/hopesinsurance.com/admin/user.php on line 11
+[24-Nov-2021 15:12:16 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/goldbwdo/hopesinsurance.com/admin/user.php on line 35
+[24-Nov-2021 15:12:16 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/goldbwdo/hopesinsurance.com/admin/user.php on line 60
+[24-Nov-2021 15:12:16 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/goldbwdo/hopesinsurance.com/admin/user.php on line 78
+[24-Nov-2021 15:12:16 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/goldbwdo/hopesinsurance.com/admin/user.php on line 143
+[24-Nov-2021 15:12:16 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[24-Nov-2021 15:12:18 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[24-Nov-2021 15:12:18 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[24-Nov-2021 15:12:18 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[24-Nov-2021 15:12:18 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/goldbwdo/hopesinsurance.com/admin/user.php on line 11
+[24-Nov-2021 15:12:18 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/goldbwdo/hopesinsurance.com/admin/user.php on line 35
+[24-Nov-2021 15:12:18 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/goldbwdo/hopesinsurance.com/admin/user.php on line 60
+[24-Nov-2021 15:12:18 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/goldbwdo/hopesinsurance.com/admin/user.php on line 78
+[24-Nov-2021 15:12:18 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/goldbwdo/hopesinsurance.com/admin/user.php on line 143
+[24-Nov-2021 15:12:18 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[24-Nov-2021 15:27:40 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/goldbwdo/hopesinsurance.com/admin/login.php on line 13
+[24-Nov-2021 15:34:53 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[24-Nov-2021 15:34:53 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[24-Nov-2021 15:34:53 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[24-Nov-2021 15:34:53 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[24-Nov-2021 16:01:04 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[24-Nov-2021 16:01:04 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[24-Nov-2021 16:01:04 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[24-Nov-2021 16:01:04 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[24-Nov-2021 16:14:12 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[24-Nov-2021 16:14:12 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[24-Nov-2021 16:14:12 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[24-Nov-2021 16:14:12 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[25-Nov-2021 12:00:30 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[25-Nov-2021 12:00:30 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[25-Nov-2021 12:00:30 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[25-Nov-2021 12:00:30 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[25-Nov-2021 12:02:45 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[25-Nov-2021 12:02:45 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[25-Nov-2021 12:02:45 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[25-Nov-2021 12:02:45 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[25-Nov-2021 12:43:59 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[25-Nov-2021 12:43:59 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[25-Nov-2021 12:43:59 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[25-Nov-2021 12:43:59 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[25-Nov-2021 13:02:26 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[25-Nov-2021 13:02:27 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[25-Nov-2021 13:09:03 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/goldbwdo/hopesinsurance.com/connect.php on line 1
+[25-Nov-2021 13:10:35 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/goldbwdo/hopesinsurance.com/connect.php on line 1
+[25-Nov-2021 13:10:35 America/New_York] PHP Notice:  Undefined index: se1 in /home/goldbwdo/hopesinsurance.com/admin/security.php on line 14
+[25-Nov-2021 13:10:35 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/security.php on line 21
+[25-Nov-2021 13:10:35 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[25-Nov-2021 13:10:35 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[25-Nov-2021 13:10:35 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[25-Nov-2021 13:10:35 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/goldbwdo/hopesinsurance.com/connect.php on line 1
+[25-Nov-2021 13:10:35 America/New_York] PHP Notice:  Undefined index: se1 in /home/goldbwdo/hopesinsurance.com/admin/security.php on line 14
+[25-Nov-2021 13:10:35 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/security.php on line 21
+[25-Nov-2021 13:10:36 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[25-Nov-2021 13:14:07 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[25-Nov-2021 13:14:07 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/debitn.php on line 122
+[25-Nov-2021 13:27:36 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/lock.php on line 15
+[25-Nov-2021 13:27:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/goldbwdo/hopesinsurance.com/admin/lock.php:5
+Stack trace:
+#0 /home/goldbwdo/hopesinsurance.com/admin/index.php(312): include()
+#1 {main}
+  thrown in /home/goldbwdo/hopesinsurance.com/admin/lock.php on line 5
+[25-Nov-2021 14:41:20 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[25-Nov-2021 14:41:20 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[25-Nov-2021 14:41:20 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[25-Nov-2021 14:41:21 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[26-Nov-2021 09:16:46 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[26-Nov-2021 09:16:46 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[26-Nov-2021 09:16:46 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[26-Nov-2021 09:16:48 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[26-Nov-2021 09:17:29 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[26-Nov-2021 09:18:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/goldbwdo/hopesinsurance.com/admin/del.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/goldbwdo/hopesinsurance.com/admin/del.php on line 5
+[26-Nov-2021 09:21:56 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[26-Nov-2021 14:49:20 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[26-Nov-2021 14:49:20 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[26-Nov-2021 14:49:20 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[26-Nov-2021 14:49:20 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[29-Nov-2021 15:28:04 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[29-Nov-2021 15:28:04 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[29-Nov-2021 15:34:08 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[29-Nov-2021 15:34:08 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[29-Nov-2021 15:34:08 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[29-Nov-2021 15:34:08 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[29-Nov-2021 15:45:39 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/lock.php on line 15
+[29-Nov-2021 15:45:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/goldbwdo/hopesinsurance.com/admin/lock.php:5
+Stack trace:
+#0 /home/goldbwdo/hopesinsurance.com/admin/index.php(312): include()
+#1 {main}
+  thrown in /home/goldbwdo/hopesinsurance.com/admin/lock.php on line 5
+[29-Nov-2021 15:46:03 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/unlock.php on line 10
+[29-Nov-2021 15:46:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/goldbwdo/hopesinsurance.com/admin/unlock.php:5
+Stack trace:
+#0 /home/goldbwdo/hopesinsurance.com/admin/index.php(332): include()
+#1 {main}
+  thrown in /home/goldbwdo/hopesinsurance.com/admin/unlock.php on line 5
+[29-Nov-2021 15:47:05 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/lock.php on line 15
+[29-Nov-2021 15:47:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/goldbwdo/hopesinsurance.com/admin/lock.php:5
+Stack trace:
+#0 /home/goldbwdo/hopesinsurance.com/admin/index.php(312): include()
+#1 {main}
+  thrown in /home/goldbwdo/hopesinsurance.com/admin/lock.php on line 5
+[29-Nov-2021 15:50:20 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/unlock.php on line 10
+[29-Nov-2021 15:50:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/goldbwdo/hopesinsurance.com/admin/unlock.php:5
+Stack trace:
+#0 /home/goldbwdo/hopesinsurance.com/admin/index.php(332): include()
+#1 {main}
+  thrown in /home/goldbwdo/hopesinsurance.com/admin/unlock.php on line 5
+[29-Nov-2021 15:54:52 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[29-Nov-2021 15:54:52 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[29-Nov-2021 15:55:49 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[29-Nov-2021 15:55:49 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[29-Nov-2021 16:08:35 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[29-Nov-2021 16:17:02 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[29-Nov-2021 16:17:03 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[29-Nov-2021 16:17:05 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[29-Nov-2021 16:17:05 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[01-Dec-2021 23:47:47 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[01-Dec-2021 23:47:47 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[01-Dec-2021 23:47:47 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[05-Dec-2021 04:30:51 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[05-Dec-2021 04:30:51 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[05-Dec-2021 04:30:51 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[05-Dec-2021 04:30:51 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[14-Dec-2021 14:29:31 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[14-Dec-2021 14:29:31 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[14-Dec-2021 14:29:31 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[14-Dec-2021 14:29:31 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[14-Dec-2021 14:29:31 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[14-Dec-2021 14:29:31 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[14-Dec-2021 14:29:31 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[14-Dec-2021 14:29:31 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[14-Dec-2021 15:09:15 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[14-Dec-2021 15:09:15 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[14-Dec-2021 15:09:15 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[14-Dec-2021 15:09:15 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[15-Dec-2021 09:23:26 America/New_York] PHP Notice:  Undefined variable: user in /home/goldbwdo/hopesinsurance.com/admin/edi.php on line 29
+[15-Dec-2021 15:40:24 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[15-Dec-2021 15:40:24 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[15-Dec-2021 15:40:24 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[15-Dec-2021 15:40:24 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[15-Dec-2021 15:41:58 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[15-Dec-2021 15:41:58 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[15-Dec-2021 18:35:32 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[15-Dec-2021 18:35:32 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[15-Dec-2021 18:35:32 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[15-Dec-2021 18:35:32 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[16-Dec-2021 14:51:24 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[16-Dec-2021 14:51:24 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[16-Dec-2021 14:51:24 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[16-Dec-2021 14:51:24 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[16-Dec-2021 14:53:25 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[16-Dec-2021 14:53:26 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[18-Dec-2021 09:40:31 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[18-Dec-2021 09:40:31 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[18-Dec-2021 09:40:31 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[18-Dec-2021 09:40:31 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[18-Dec-2021 09:40:31 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[18-Dec-2021 09:40:31 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[18-Dec-2021 09:43:06 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 28
+[18-Dec-2021 09:43:06 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[18-Dec-2021 09:43:06 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[18-Dec-2021 11:59:38 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[18-Dec-2021 11:59:38 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[18-Dec-2021 11:59:38 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[18-Dec-2021 11:59:38 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[18-Dec-2021 11:59:39 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[18-Dec-2021 11:59:39 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[18-Dec-2021 11:59:39 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[18-Dec-2021 11:59:41 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[20-Dec-2021 11:43:43 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[20-Dec-2021 11:43:43 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[20-Dec-2021 11:43:43 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[20-Dec-2021 11:43:43 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[20-Dec-2021 12:15:41 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[20-Dec-2021 12:15:42 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[20-Dec-2021 12:17:49 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[20-Dec-2021 12:17:49 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[20-Dec-2021 17:49:29 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[20-Dec-2021 17:49:29 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[20-Dec-2021 17:49:29 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[20-Dec-2021 17:49:30 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[21-Dec-2021 15:56:35 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[21-Dec-2021 15:56:35 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[21-Dec-2021 15:56:35 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[21-Dec-2021 15:56:35 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[21-Dec-2021 15:56:35 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[21-Dec-2021 15:56:35 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[21-Dec-2021 15:56:36 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[21-Dec-2021 15:56:36 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[21-Dec-2021 15:56:36 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[21-Dec-2021 15:56:36 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[21-Dec-2021 15:56:37 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[22-Dec-2021 14:23:47 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[22-Dec-2021 14:23:47 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[22-Dec-2021 14:23:47 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[22-Dec-2021 14:23:48 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[22-Dec-2021 14:25:48 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[22-Dec-2021 14:25:48 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[22-Dec-2021 18:58:14 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[22-Dec-2021 18:58:14 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[22-Dec-2021 18:58:14 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[22-Dec-2021 18:58:14 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[22-Dec-2021 18:58:14 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[22-Dec-2021 18:58:15 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[22-Dec-2021 18:59:52 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[22-Dec-2021 18:59:52 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[23-Dec-2021 19:45:44 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[23-Dec-2021 19:45:44 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[23-Dec-2021 19:45:44 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[23-Dec-2021 19:45:45 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[28-Dec-2021 18:58:41 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[28-Dec-2021 18:58:41 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[28-Dec-2021 18:58:41 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[28-Dec-2021 18:58:42 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[03-Jan-2022 21:07:07 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[03-Jan-2022 21:07:07 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[03-Jan-2022 21:08:25 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[03-Jan-2022 21:08:25 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[06-Jan-2022 10:53:21 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[06-Jan-2022 10:53:21 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[06-Jan-2022 10:53:21 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[06-Jan-2022 10:53:21 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[06-Jan-2022 12:26:25 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[06-Jan-2022 12:26:25 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[06-Jan-2022 12:26:25 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[06-Jan-2022 12:26:25 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[07-Jan-2022 08:43:45 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[07-Jan-2022 08:43:45 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[07-Jan-2022 08:43:45 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[07-Jan-2022 08:43:45 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[07-Jan-2022 08:51:08 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[07-Jan-2022 08:51:08 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[08-Jan-2022 08:57:40 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[08-Jan-2022 08:57:40 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[08-Jan-2022 08:57:40 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[08-Jan-2022 08:57:40 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[08-Jan-2022 09:00:13 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[08-Jan-2022 09:00:13 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[13-Jan-2022 15:58:04 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[13-Jan-2022 15:58:04 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[13-Jan-2022 18:19:45 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[13-Jan-2022 18:19:45 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[13-Jan-2022 18:19:45 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[13-Jan-2022 18:19:45 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[13-Jan-2022 18:21:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/goldbwdo/hopesinsurance.com/admin/del.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/goldbwdo/hopesinsurance.com/admin/del.php on line 5
+[13-Jan-2022 18:32:20 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[13-Jan-2022 18:32:20 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[13-Jan-2022 18:43:48 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[13-Jan-2022 18:43:48 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[17-Jan-2022 11:16:36 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[17-Jan-2022 11:16:36 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[17-Jan-2022 11:16:36 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[17-Jan-2022 11:16:36 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[17-Jan-2022 11:18:02 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[17-Jan-2022 11:18:02 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[19-Jan-2022 11:44:06 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[19-Jan-2022 11:44:06 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[21-Jan-2022 09:43:43 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[21-Jan-2022 09:43:43 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[25-Jan-2022 17:46:10 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[25-Jan-2022 17:46:10 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[25-Jan-2022 17:46:10 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[25-Jan-2022 17:46:10 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[28-Jan-2022 18:23:55 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[28-Jan-2022 18:23:55 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[28-Jan-2022 18:23:55 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[28-Jan-2022 18:23:55 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[28-Jan-2022 18:50:37 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[28-Jan-2022 18:50:37 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[29-Jan-2022 09:38:17 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[29-Jan-2022 09:38:17 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[29-Jan-2022 09:38:17 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[29-Jan-2022 09:38:18 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[29-Jan-2022 09:40:21 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[29-Jan-2022 09:40:21 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[29-Jan-2022 10:50:32 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[29-Jan-2022 10:50:32 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[31-Jan-2022 13:55:02 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[31-Jan-2022 13:55:02 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[31-Jan-2022 13:55:02 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[31-Jan-2022 13:55:02 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[31-Jan-2022 15:43:44 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[31-Jan-2022 15:43:44 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[31-Jan-2022 15:43:44 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[31-Jan-2022 15:43:44 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[01-Feb-2022 10:15:27 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[01-Feb-2022 10:15:27 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[01-Feb-2022 10:15:27 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[01-Feb-2022 10:15:27 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[01-Feb-2022 10:17:46 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[01-Feb-2022 10:17:47 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[03-Feb-2022 09:56:11 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[03-Feb-2022 09:56:11 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[03-Feb-2022 15:16:26 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[03-Feb-2022 15:16:26 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[03-Feb-2022 15:16:26 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[03-Feb-2022 15:16:26 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[03-Feb-2022 15:50:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/goldbwdo/hopesinsurance.com/admin/del.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/goldbwdo/hopesinsurance.com/admin/del.php on line 5
+[03-Feb-2022 17:14:54 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[03-Feb-2022 17:14:54 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[03-Feb-2022 17:14:54 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[03-Feb-2022 17:14:54 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[04-Feb-2022 12:27:03 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[04-Feb-2022 12:27:03 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[04-Feb-2022 12:27:03 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[04-Feb-2022 12:27:03 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[07-Feb-2022 09:25:29 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[07-Feb-2022 09:25:29 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[07-Feb-2022 09:25:29 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[07-Feb-2022 09:25:29 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[08-Feb-2022 09:23:10 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[08-Feb-2022 09:23:10 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[08-Feb-2022 09:23:10 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[08-Feb-2022 09:23:10 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[08-Feb-2022 09:25:24 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[08-Feb-2022 09:25:25 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[08-Feb-2022 09:40:29 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[08-Feb-2022 09:40:29 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[08-Feb-2022 09:42:42 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[08-Feb-2022 09:42:42 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[08-Feb-2022 17:09:48 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[08-Feb-2022 17:09:48 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[08-Feb-2022 17:09:48 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[08-Feb-2022 17:09:48 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[08-Feb-2022 17:12:23 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[08-Feb-2022 17:12:23 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[08-Feb-2022 17:22:34 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[08-Feb-2022 17:22:34 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[09-Feb-2022 09:29:55 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[09-Feb-2022 09:29:55 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[09-Feb-2022 09:29:55 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[09-Feb-2022 09:29:55 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[09-Feb-2022 09:29:55 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[09-Feb-2022 09:29:55 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[09-Feb-2022 09:29:55 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[09-Feb-2022 09:29:56 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[09-Feb-2022 09:29:59 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[09-Feb-2022 09:29:59 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[09-Feb-2022 09:29:59 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[09-Feb-2022 09:29:59 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[09-Feb-2022 11:48:45 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[09-Feb-2022 11:48:45 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[09-Feb-2022 11:48:45 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[09-Feb-2022 11:48:45 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[09-Feb-2022 13:19:39 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[09-Feb-2022 13:19:39 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[09-Feb-2022 13:19:39 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[11-Feb-2022 18:52:19 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[11-Feb-2022 18:52:19 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[11-Feb-2022 18:52:19 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[11-Feb-2022 18:56:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/goldbwdo/hopesinsurance.com/admin/del.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/goldbwdo/hopesinsurance.com/admin/del.php on line 5
+[12-Feb-2022 11:41:41 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[12-Feb-2022 11:41:41 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[12-Feb-2022 11:41:41 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[12-Feb-2022 11:41:42 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[12-Feb-2022 11:42:34 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[12-Feb-2022 11:42:34 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[15-Feb-2022 10:00:14 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[15-Feb-2022 10:00:14 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[15-Feb-2022 10:00:14 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[15-Feb-2022 10:00:14 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[15-Feb-2022 16:03:00 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[15-Feb-2022 16:03:00 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[15-Feb-2022 18:52:07 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[15-Feb-2022 18:52:07 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[15-Feb-2022 18:52:07 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[15-Feb-2022 18:52:07 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[15-Feb-2022 18:57:43 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[15-Feb-2022 18:57:43 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[16-Feb-2022 16:11:37 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[16-Feb-2022 16:11:37 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[16-Feb-2022 16:11:37 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[16-Feb-2022 16:11:39 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[17-Feb-2022 11:41:30 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[17-Feb-2022 11:41:30 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[17-Feb-2022 11:41:30 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[17-Feb-2022 11:41:30 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[18-Feb-2022 08:00:58 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[18-Feb-2022 08:00:58 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[18-Feb-2022 08:00:58 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[18-Feb-2022 08:00:58 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[18-Feb-2022 20:04:26 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[18-Feb-2022 20:04:26 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[18-Feb-2022 20:04:26 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[18-Feb-2022 20:04:26 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[18-Feb-2022 20:05:27 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[18-Feb-2022 20:05:27 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[18-Feb-2022 20:58:36 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[18-Feb-2022 20:58:36 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[18-Feb-2022 20:58:36 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[18-Feb-2022 20:58:36 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[18-Feb-2022 21:00:13 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[18-Feb-2022 21:00:13 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[18-Feb-2022 21:01:05 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[18-Feb-2022 21:01:05 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[21-Feb-2022 14:22:30 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[21-Feb-2022 14:22:30 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[21-Feb-2022 14:22:30 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[21-Feb-2022 14:22:30 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[21-Feb-2022 14:53:27 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[21-Feb-2022 14:53:27 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[22-Feb-2022 07:07:05 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[22-Feb-2022 07:07:05 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[22-Feb-2022 07:07:05 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[22-Feb-2022 07:07:05 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[23-Feb-2022 09:40:42 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[23-Feb-2022 09:40:42 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[23-Feb-2022 09:40:42 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[23-Feb-2022 09:40:43 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[23-Feb-2022 09:43:01 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[23-Feb-2022 09:43:01 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[23-Feb-2022 12:02:46 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[23-Feb-2022 12:02:46 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[23-Feb-2022 12:02:46 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[23-Feb-2022 12:02:46 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[23-Feb-2022 12:21:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/goldbwdo/hopesinsurance.com/admin/del.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/goldbwdo/hopesinsurance.com/admin/del.php on line 5
+[23-Feb-2022 12:40:59 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[23-Feb-2022 12:41:00 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[23-Feb-2022 18:32:48 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[23-Feb-2022 18:32:48 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[23-Feb-2022 18:32:48 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[23-Feb-2022 18:32:48 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[24-Feb-2022 10:52:52 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[24-Feb-2022 10:52:52 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[24-Feb-2022 10:52:52 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[24-Feb-2022 10:53:06 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[24-Feb-2022 10:53:06 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[24-Feb-2022 10:53:06 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[24-Feb-2022 10:53:09 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[26-Feb-2022 12:24:16 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[26-Feb-2022 12:24:16 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[26-Feb-2022 12:24:16 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[26-Feb-2022 12:24:16 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[26-Feb-2022 12:58:17 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[26-Feb-2022 12:58:17 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[26-Feb-2022 12:58:17 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[26-Feb-2022 12:58:17 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[26-Feb-2022 13:00:08 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[26-Feb-2022 13:00:08 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[26-Feb-2022 15:34:07 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[26-Feb-2022 15:34:07 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[26-Feb-2022 15:34:07 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[26-Feb-2022 15:34:08 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[01-Mar-2022 11:52:21 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[01-Mar-2022 11:52:21 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[01-Mar-2022 11:52:21 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[01-Mar-2022 11:52:21 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[01-Mar-2022 12:15:02 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[01-Mar-2022 12:15:02 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[01-Mar-2022 18:39:25 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[01-Mar-2022 18:39:25 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[01-Mar-2022 18:39:25 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[01-Mar-2022 18:39:25 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[02-Mar-2022 11:19:27 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[02-Mar-2022 11:19:27 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[02-Mar-2022 11:19:27 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[02-Mar-2022 11:19:27 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[02-Mar-2022 13:28:24 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[02-Mar-2022 13:28:24 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[02-Mar-2022 13:28:24 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[02-Mar-2022 13:28:24 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[02-Mar-2022 14:22:53 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[02-Mar-2022 14:22:53 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[02-Mar-2022 14:22:53 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[02-Mar-2022 14:22:53 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[02-Mar-2022 16:15:33 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[02-Mar-2022 16:15:33 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[02-Mar-2022 16:15:33 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[02-Mar-2022 16:15:33 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[02-Mar-2022 22:27:34 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[02-Mar-2022 22:27:34 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[02-Mar-2022 22:27:34 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[02-Mar-2022 22:27:35 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[03-Mar-2022 10:36:54 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[03-Mar-2022 10:36:54 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[03-Mar-2022 10:36:54 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[03-Mar-2022 10:36:55 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[03-Mar-2022 10:38:39 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[03-Mar-2022 10:38:40 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[03-Mar-2022 12:26:05 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[03-Mar-2022 12:26:05 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[03-Mar-2022 12:26:05 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[03-Mar-2022 12:26:05 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[03-Mar-2022 13:20:01 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[03-Mar-2022 13:20:01 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[03-Mar-2022 13:20:01 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[03-Mar-2022 13:20:01 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[04-Mar-2022 11:50:57 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[04-Mar-2022 11:50:57 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[04-Mar-2022 11:50:57 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[04-Mar-2022 11:50:58 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[04-Mar-2022 16:45:56 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[04-Mar-2022 16:45:56 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[04-Mar-2022 16:45:56 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[04-Mar-2022 16:45:56 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[07-Mar-2022 16:25:44 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[07-Mar-2022 16:25:44 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[07-Mar-2022 16:25:44 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[07-Mar-2022 16:25:45 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[08-Mar-2022 10:45:03 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[08-Mar-2022 10:45:03 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[08-Mar-2022 10:45:03 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[08-Mar-2022 10:45:04 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[08-Mar-2022 12:52:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/goldbwdo/hopesinsurance.com/admin/remove.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/goldbwdo/hopesinsurance.com/admin/remove.php on line 5
+[08-Mar-2022 12:55:20 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[08-Mar-2022 12:55:20 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[08-Mar-2022 14:51:57 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[08-Mar-2022 14:51:57 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[08-Mar-2022 14:51:57 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[08-Mar-2022 14:51:58 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[09-Mar-2022 13:31:22 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[09-Mar-2022 13:31:22 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[09-Mar-2022 13:31:22 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[09-Mar-2022 13:31:23 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[09-Mar-2022 13:35:52 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[09-Mar-2022 13:35:52 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[10-Mar-2022 11:43:53 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[10-Mar-2022 11:43:53 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[10-Mar-2022 11:43:53 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[10-Mar-2022 11:43:54 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[10-Mar-2022 11:45:56 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[10-Mar-2022 11:45:56 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[10-Mar-2022 14:30:43 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[10-Mar-2022 14:30:43 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[10-Mar-2022 14:30:43 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[10-Mar-2022 14:30:43 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[10-Mar-2022 18:19:35 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[10-Mar-2022 18:19:35 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[10-Mar-2022 18:19:35 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[10-Mar-2022 18:19:35 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[10-Mar-2022 18:21:30 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[10-Mar-2022 18:21:30 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[11-Mar-2022 10:58:05 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[11-Mar-2022 10:58:05 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[11-Mar-2022 10:58:05 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[11-Mar-2022 10:58:06 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[11-Mar-2022 11:20:22 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[11-Mar-2022 11:20:23 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[11-Mar-2022 16:16:45 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[11-Mar-2022 16:16:45 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[11-Mar-2022 16:16:45 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[11-Mar-2022 16:16:45 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[11-Mar-2022 19:24:12 America/New_York] PHP Notice:  Undefined variable: user in /home/goldbwdo/hopesinsurance.com/admin/edi.php on line 29
+[14-Mar-2022 11:33:36 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[14-Mar-2022 11:33:36 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[14-Mar-2022 11:33:36 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[14-Mar-2022 11:33:36 America/New_York] PHP Notice:  Undefined variable: user in /home/goldbwdo/hopesinsurance.com/admin/edi.php on line 29
+[14-Mar-2022 11:33:36 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[14-Mar-2022 11:37:10 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[14-Mar-2022 11:37:10 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[14-Mar-2022 11:39:09 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[14-Mar-2022 11:39:09 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[14-Mar-2022 13:46:59 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[14-Mar-2022 13:46:59 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[14-Mar-2022 13:46:59 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[14-Mar-2022 13:46:59 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[15-Mar-2022 16:08:20 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[15-Mar-2022 16:08:20 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[15-Mar-2022 16:08:20 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[15-Mar-2022 16:08:20 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[15-Mar-2022 16:10:38 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[15-Mar-2022 16:10:38 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[15-Mar-2022 18:17:22 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[15-Mar-2022 18:17:22 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[15-Mar-2022 18:17:22 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[15-Mar-2022 18:17:23 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[16-Mar-2022 12:35:37 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[16-Mar-2022 12:35:37 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[16-Mar-2022 12:35:37 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[16-Mar-2022 12:35:38 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[17-Mar-2022 10:45:21 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[17-Mar-2022 10:45:21 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[17-Mar-2022 10:45:21 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[17-Mar-2022 10:45:21 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[17-Mar-2022 10:50:28 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[17-Mar-2022 10:50:28 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[17-Mar-2022 12:49:24 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[17-Mar-2022 12:49:24 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[17-Mar-2022 12:49:24 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[17-Mar-2022 12:49:24 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[17-Mar-2022 12:53:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/goldbwdo/hopesinsurance.com/admin/remove.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/goldbwdo/hopesinsurance.com/admin/remove.php on line 5
+[19-Mar-2022 15:29:14 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[19-Mar-2022 15:29:14 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[19-Mar-2022 15:29:14 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[19-Mar-2022 15:29:15 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[19-Mar-2022 17:15:19 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[19-Mar-2022 17:15:19 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[19-Mar-2022 17:15:19 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[19-Mar-2022 17:15:19 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[19-Mar-2022 17:26:28 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[19-Mar-2022 17:26:28 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[21-Mar-2022 15:53:40 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[21-Mar-2022 15:53:40 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[21-Mar-2022 15:53:40 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[21-Mar-2022 15:53:40 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[21-Mar-2022 17:34:06 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[21-Mar-2022 17:34:06 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[21-Mar-2022 17:34:06 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[21-Mar-2022 17:34:06 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[21-Mar-2022 17:34:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/goldbwdo/hopesinsurance.com/admin/del.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/goldbwdo/hopesinsurance.com/admin/del.php on line 5
+[21-Mar-2022 17:36:31 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[21-Mar-2022 17:36:31 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[22-Mar-2022 15:28:54 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[22-Mar-2022 15:28:54 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[22-Mar-2022 15:28:54 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[22-Mar-2022 15:28:54 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[22-Mar-2022 15:32:06 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[22-Mar-2022 15:32:06 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[22-Mar-2022 16:33:28 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[22-Mar-2022 16:33:28 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[22-Mar-2022 16:33:28 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[22-Mar-2022 16:33:28 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[22-Mar-2022 17:11:37 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[22-Mar-2022 17:11:37 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[22-Mar-2022 17:11:37 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[22-Mar-2022 17:11:37 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[22-Mar-2022 17:16:13 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[22-Mar-2022 17:16:13 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[23-Mar-2022 12:59:08 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[23-Mar-2022 12:59:08 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[23-Mar-2022 12:59:08 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[23-Mar-2022 12:59:08 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[23-Mar-2022 13:01:30 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[23-Mar-2022 13:01:31 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[23-Mar-2022 13:59:49 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[23-Mar-2022 13:59:49 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[23-Mar-2022 13:59:49 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[23-Mar-2022 13:59:49 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[23-Mar-2022 14:00:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/goldbwdo/hopesinsurance.com/admin/remove.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/goldbwdo/hopesinsurance.com/admin/remove.php on line 5
+[23-Mar-2022 14:00:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/goldbwdo/hopesinsurance.com/admin/remove.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/goldbwdo/hopesinsurance.com/admin/remove.php on line 5
+[23-Mar-2022 15:28:28 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[23-Mar-2022 15:28:28 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[23-Mar-2022 15:28:28 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[23-Mar-2022 15:28:28 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[23-Mar-2022 15:29:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/goldbwdo/hopesinsurance.com/admin/del.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/goldbwdo/hopesinsurance.com/admin/del.php on line 5
+[23-Mar-2022 15:52:13 America/New_York] PHP Notice:  Undefined variable: user in /home/goldbwdo/hopesinsurance.com/admin/edi.php on line 29
+[23-Mar-2022 15:58:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/goldbwdo/hopesinsurance.com/admin/del.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/goldbwdo/hopesinsurance.com/admin/del.php on line 5
+[23-Mar-2022 16:26:13 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[23-Mar-2022 16:31:21 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[23-Mar-2022 16:31:21 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[23-Mar-2022 19:55:25 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[23-Mar-2022 19:55:25 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[23-Mar-2022 19:55:25 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[23-Mar-2022 19:55:25 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[24-Mar-2022 13:02:02 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[24-Mar-2022 13:02:02 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[24-Mar-2022 13:02:54 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[24-Mar-2022 13:02:54 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[28-Mar-2022 13:48:44 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[28-Mar-2022 13:48:44 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[28-Mar-2022 13:48:44 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[28-Mar-2022 13:48:44 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[28-Mar-2022 14:15:57 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[28-Mar-2022 14:15:57 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[28-Mar-2022 14:17:54 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[28-Mar-2022 14:17:54 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[28-Mar-2022 17:34:46 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[28-Mar-2022 17:34:46 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[28-Mar-2022 17:34:46 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[28-Mar-2022 17:34:46 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[28-Mar-2022 17:34:46 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[28-Mar-2022 17:34:46 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[28-Mar-2022 17:34:48 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[28-Mar-2022 17:36:13 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[28-Mar-2022 17:36:13 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[28-Mar-2022 18:47:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/goldbwdo/hopesinsurance.com/admin/remove.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/goldbwdo/hopesinsurance.com/admin/remove.php on line 5
+[28-Mar-2022 18:48:21 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[28-Mar-2022 18:48:21 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[29-Mar-2022 13:49:58 America/New_York] PHP Notice:  Undefined variable: user in /home/goldbwdo/hopesinsurance.com/admin/edi.php on line 29
+[29-Mar-2022 16:39:42 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[29-Mar-2022 16:39:42 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[29-Mar-2022 16:39:42 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[29-Mar-2022 16:39:42 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[30-Mar-2022 14:28:34 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[30-Mar-2022 14:28:34 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[30-Mar-2022 14:28:34 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[30-Mar-2022 14:28:34 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[30-Mar-2022 14:30:30 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[30-Mar-2022 14:30:30 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[30-Mar-2022 14:59:15 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[30-Mar-2022 14:59:16 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[30-Mar-2022 16:38:53 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[30-Mar-2022 16:40:54 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/goldbwdo/hopesinsurance.com/admin/del.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/goldbwdo/hopesinsurance.com/admin/del.php on line 5
+[30-Mar-2022 16:41:26 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[30-Mar-2022 16:41:26 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[31-Mar-2022 11:00:41 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[31-Mar-2022 11:00:41 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[31-Mar-2022 11:00:41 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[31-Mar-2022 11:00:41 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[31-Mar-2022 18:41:45 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[31-Mar-2022 18:41:45 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[31-Mar-2022 18:41:45 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[31-Mar-2022 18:41:45 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[31-Mar-2022 18:43:49 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[31-Mar-2022 18:43:49 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[01-Apr-2022 11:18:42 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[01-Apr-2022 11:18:42 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[01-Apr-2022 11:18:42 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[01-Apr-2022 11:18:42 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[01-Apr-2022 13:03:20 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[01-Apr-2022 13:03:20 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[01-Apr-2022 13:03:20 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[01-Apr-2022 13:03:21 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[01-Apr-2022 13:04:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/goldbwdo/hopesinsurance.com/admin/remove.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/goldbwdo/hopesinsurance.com/admin/remove.php on line 5
+[01-Apr-2022 19:06:39 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[01-Apr-2022 19:06:39 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[01-Apr-2022 19:06:39 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[01-Apr-2022 19:06:39 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[02-Apr-2022 12:43:49 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[02-Apr-2022 12:43:49 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[02-Apr-2022 12:43:49 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[02-Apr-2022 12:43:49 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[03-Apr-2022 17:28:23 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[03-Apr-2022 17:28:23 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[03-Apr-2022 17:28:23 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[03-Apr-2022 17:28:24 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[04-Apr-2022 13:22:09 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[04-Apr-2022 13:22:09 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[04-Apr-2022 13:22:09 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[04-Apr-2022 13:22:09 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[04-Apr-2022 13:23:14 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[04-Apr-2022 13:23:14 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[04-Apr-2022 17:13:38 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[04-Apr-2022 17:13:38 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[04-Apr-2022 17:13:38 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[04-Apr-2022 17:13:38 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[06-Apr-2022 12:27:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/goldbwdo/hopesinsurance.com/admin/del.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/goldbwdo/hopesinsurance.com/admin/del.php on line 5
+[06-Apr-2022 12:59:10 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[06-Apr-2022 12:59:10 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[06-Apr-2022 12:59:10 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[06-Apr-2022 12:59:10 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[06-Apr-2022 13:02:34 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[06-Apr-2022 13:02:34 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[06-Apr-2022 14:38:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/goldbwdo/hopesinsurance.com/admin/remove.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/goldbwdo/hopesinsurance.com/admin/remove.php on line 5
+[07-Apr-2022 09:56:38 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[07-Apr-2022 09:56:38 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[07-Apr-2022 09:56:38 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[07-Apr-2022 09:56:38 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[07-Apr-2022 09:57:58 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/goldbwdo/hopesinsurance.com/admin/del.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/goldbwdo/hopesinsurance.com/admin/del.php on line 5
+[07-Apr-2022 09:58:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/goldbwdo/hopesinsurance.com/admin/del.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/goldbwdo/hopesinsurance.com/admin/del.php on line 5
+[07-Apr-2022 11:15:39 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[07-Apr-2022 11:15:39 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[07-Apr-2022 11:15:39 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[07-Apr-2022 11:15:39 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[07-Apr-2022 11:15:40 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[07-Apr-2022 11:15:40 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[07-Apr-2022 11:15:40 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[07-Apr-2022 11:15:40 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[07-Apr-2022 11:15:41 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[07-Apr-2022 11:15:41 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[07-Apr-2022 11:15:41 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[07-Apr-2022 11:15:42 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[07-Apr-2022 17:17:56 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[07-Apr-2022 17:17:56 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[07-Apr-2022 17:17:56 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[07-Apr-2022 17:17:57 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[07-Apr-2022 19:16:45 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[07-Apr-2022 19:16:45 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[07-Apr-2022 19:16:45 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[07-Apr-2022 19:16:49 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[11-Apr-2022 11:02:32 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[11-Apr-2022 11:02:32 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[11-Apr-2022 11:02:32 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[11-Apr-2022 11:02:32 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[12-Apr-2022 11:00:52 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[12-Apr-2022 11:00:52 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[12-Apr-2022 11:00:52 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[12-Apr-2022 11:00:52 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[12-Apr-2022 11:10:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/goldbwdo/hopesinsurance.com/admin/remove.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/goldbwdo/hopesinsurance.com/admin/remove.php on line 5
+[13-Apr-2022 08:07:24 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[13-Apr-2022 08:07:24 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[13-Apr-2022 08:07:24 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[13-Apr-2022 08:07:24 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[13-Apr-2022 11:08:25 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[13-Apr-2022 11:08:25 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[13-Apr-2022 12:05:27 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[13-Apr-2022 12:05:27 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[13-Apr-2022 12:05:27 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[13-Apr-2022 12:05:27 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[13-Apr-2022 16:17:18 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[13-Apr-2022 16:17:18 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[13-Apr-2022 16:17:18 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[13-Apr-2022 16:17:18 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[14-Apr-2022 11:13:39 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[14-Apr-2022 11:13:39 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[14-Apr-2022 11:13:39 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[14-Apr-2022 11:13:40 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[18-Apr-2022 15:29:56 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[18-Apr-2022 15:29:56 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[18-Apr-2022 15:29:56 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[18-Apr-2022 15:29:56 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[18-Apr-2022 15:32:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/goldbwdo/hopesinsurance.com/admin/remove.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/goldbwdo/hopesinsurance.com/admin/remove.php on line 5
+[18-Apr-2022 15:33:36 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[18-Apr-2022 15:33:36 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[19-Apr-2022 11:15:49 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[19-Apr-2022 11:15:49 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[19-Apr-2022 11:16:39 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[19-Apr-2022 11:16:39 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[19-Apr-2022 14:11:19 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[19-Apr-2022 14:11:19 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[22-Apr-2022 14:40:11 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[22-Apr-2022 14:40:11 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[22-Apr-2022 14:40:11 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[22-Apr-2022 14:40:12 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[22-Apr-2022 14:40:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/goldbwdo/hopesinsurance.com/admin/del.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/goldbwdo/hopesinsurance.com/admin/del.php on line 5
+[22-Apr-2022 14:50:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/goldbwdo/hopesinsurance.com/admin/remove.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/goldbwdo/hopesinsurance.com/admin/remove.php on line 5
+[22-Apr-2022 14:53:40 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[22-Apr-2022 14:53:41 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[22-Apr-2022 16:32:00 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[22-Apr-2022 16:32:00 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[22-Apr-2022 16:32:00 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[22-Apr-2022 16:32:00 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[27-Apr-2022 15:54:46 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[27-Apr-2022 15:54:46 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[27-Apr-2022 15:54:46 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[27-Apr-2022 15:54:46 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[27-Apr-2022 16:33:12 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[27-Apr-2022 16:33:12 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[28-Apr-2022 14:58:28 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[28-Apr-2022 14:58:28 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[28-Apr-2022 14:58:28 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[28-Apr-2022 14:58:28 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[29-Apr-2022 17:48:50 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[29-Apr-2022 17:48:50 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[29-Apr-2022 17:48:50 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[29-Apr-2022 17:48:50 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[03-May-2022 10:47:25 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[03-May-2022 10:47:25 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[03-May-2022 10:47:25 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[03-May-2022 10:47:26 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[03-May-2022 10:49:44 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[03-May-2022 10:49:44 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[03-May-2022 11:32:05 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[03-May-2022 11:32:05 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[03-May-2022 11:32:05 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[03-May-2022 11:32:05 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[03-May-2022 11:33:43 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[03-May-2022 11:33:44 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[04-May-2022 10:53:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/goldbwdo/hopesinsurance.com/admin/remove.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/goldbwdo/hopesinsurance.com/admin/remove.php on line 5
+[04-May-2022 10:54:26 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[04-May-2022 10:54:26 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[05-May-2022 10:18:55 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[05-May-2022 10:18:55 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[05-May-2022 10:18:55 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[05-May-2022 10:18:55 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[05-May-2022 10:19:54 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/hopesinsurance.com/admin/functions.php on line 319
+[05-May-2022 10:19:54 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/hopesinsurance.com/admin/index.php:54) in /home/goldbwdo/hopesinsurance.com/admin/topupn.php on line 117
+[06-May-2022 13:50:48 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 2
+[06-May-2022 13:50:48 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 54
+[06-May-2022 13:50:48 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/hopesinsurance.com/admin/index.php on line 205
+[06-May-2022 13:50:49 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/hopesinsurance.com/admin/logout.php on line 2
+[14-May-2022 01:34:08 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/internationalinsurancecompanysolution.business/admin/index.php on line 2
+[14-May-2022 01:34:08 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/internationalinsurancecompanysolution.business/admin/index.php on line 54
+[14-May-2022 01:34:08 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/internationalinsurancecompanysolution.business/admin/index.php on line 205
+[14-May-2022 01:34:08 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/internationalinsurancecompanysolution.business/admin/logout.php on line 2
+[16-May-2022 18:29:47 America/New_York] PHP Notice:  Undefined variable: user in /home/goldbwdo/internationalinsurancecompanysolution.business/admin/edi.php on line 29
+[17-May-2022 17:23:05 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/goldbwdo/internationalinsurancecompanysolution.business/connect.php on line 1
+[17-May-2022 17:23:52 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/goldbwdo/internationalinsurancecompanysolution.business/connect.php on line 1
+[17-May-2022 17:23:52 America/New_York] PHP Notice:  Undefined index: se1 in /home/goldbwdo/internationalinsurancecompanysolution.business/admin/security.php on line 14
+[17-May-2022 17:23:52 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/internationalinsurancecompanysolution.business/admin/index.php:54) in /home/goldbwdo/internationalinsurancecompanysolution.business/admin/security.php on line 21
+[17-May-2022 17:24:34 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/internationalinsurancecompanysolution.business/admin/index.php on line 2
+[17-May-2022 17:24:34 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/internationalinsurancecompanysolution.business/admin/index.php on line 54
+[17-May-2022 17:24:34 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/internationalinsurancecompanysolution.business/admin/index.php on line 205
+[17-May-2022 17:24:34 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/goldbwdo/internationalinsurancecompanysolution.business/connect.php on line 1
+[17-May-2022 17:24:34 America/New_York] PHP Notice:  Undefined index: se1 in /home/goldbwdo/internationalinsurancecompanysolution.business/admin/security.php on line 14
+[17-May-2022 17:24:34 America/New_York] PHP Notice:  Undefined index: se2 in /home/goldbwdo/internationalinsurancecompanysolution.business/admin/security.php on line 14
+[17-May-2022 17:24:34 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/internationalinsurancecompanysolution.business/admin/index.php:54) in /home/goldbwdo/internationalinsurancecompanysolution.business/admin/security.php on line 21
+[17-May-2022 17:24:34 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/internationalinsurancecompanysolution.business/admin/logout.php on line 2
+[17-May-2022 17:28:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/goldbwdo/internationalinsurancecompanysolution.business/admin/del.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/goldbwdo/internationalinsurancecompanysolution.business/admin/del.php on line 5
+[17-May-2022 17:28:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/goldbwdo/internationalinsurancecompanysolution.business/admin/del.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/goldbwdo/internationalinsurancecompanysolution.business/admin/del.php on line 5
+[17-May-2022 17:28:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/goldbwdo/internationalinsurancecompanysolution.business/admin/del.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/goldbwdo/internationalinsurancecompanysolution.business/admin/del.php on line 5
+[18-May-2022 20:48:52 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/internationalinsurancecompanysolution.business/admin/index.php on line 2
+[18-May-2022 20:48:52 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/internationalinsurancecompanysolution.business/admin/index.php on line 54
+[18-May-2022 20:48:52 America/New_York] PHP Notice:  Undefined index: u2 in /home/goldbwdo/internationalinsurancecompanysolution.business/admin/index.php on line 205
+[18-May-2022 20:48:52 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/goldbwdo/internationalinsurancecompanysolution.business/admin/logout.php on line 2
+[18-May-2022 20:49:55 America/New_York] PHP Notice:  Undefined variable: message in /home/goldbwdo/internationalinsurancecompanysolution.business/admin/functions.php on line 319
+[18-May-2022 20:49:55 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/goldbwdo/internationalinsurancecompanysolution.business/admin/index.php:54) in /home/goldbwdo/internationalinsurancecompanysolution.business/admin/topupn.php on line 117
